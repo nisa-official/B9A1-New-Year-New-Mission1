@@ -127,12 +127,117 @@ font-weight: 400;
 line-height: 32px;
 text-align: left;
 }
+.Subscribe{
+    width: 1300px;
+    height: 600px;
+    margin-left: 100px;
+    border-radius: 10px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.Subscribe-img{
+    padding-top: 30px;
+    padding-left: 550px;
+}
+.Subscribe-2{
+color: rgb(7, 2, 17);
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+.Subscribe-3{
+color: rgba(7, 2, 17, 0.6);
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+}
+.input-1{
+    width: 648px;
+    height: 72px;
+    border-radius:  50px 0px 0px 50px;
+    background: rgb(255, 255, 255);
+    margin-left: 150px;
+    border: none;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 30px;
+}
+.btn-2{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(255, 0, 0);
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
 .last-section{
-  width: 1600px; 
+  width: 100%; 
   height: 500px; 
+  margin-left: 100px;
   background-color: black;
+  color: white;
   margin-top: 30px ;
 }
+.section-1{
+     display: flex;
+     justify-content: space-around;
+     padding-top: 40px;
+}
+.section-2{
+    display: block;
+    
+}
+.foot-3, .foot-4{
+    display: flex;
+}
+.text-2{
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    
+}
+.foot-5{
+   margin-top: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.foot-6{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+    
+}
+.foot-7{
+    margin-top: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.foot-8{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    margin-top: 30px;
+
+}
+
   
 
 
