@@ -54,3 +54,91 @@ text-align: center;
     margin: 20px;
     margin-left: 100px;
 }
+.party-img {
+    display: flex;
+    justify-content: space-between;
+}
+.year-img{
+    
+    padding-top: 100px;
+    padding-right: 250px;
+   height: 400px;
+}
+.welcome-cont{
+color: rgb(255, 255, 255);
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+padding-top: 4%;
+padding-left: 80px ;
+
+}
+.dolor-cont{
+color: rgba(255, 255, 255, 0.8);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding-left: 80px;
+}
+.btn-1{
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+
+}
+.btn-1{
+    margin-left: 110px;
+    color: white;
+    background-color: rgb(15, 14, 14);
+    border: none;
+ 
+}
+.column{
+margin-left: 100px;
+}
+.column:hover{
+    opacity: 0.7;
+}
+.Gift-section{
+    padding-left: 100px;
+}
+.gift{
+color: rgb(255, 0, 0);
+font-size: 20px;
+font-weight: 500;
+line-height: 29px;
+text-align: left;
+}
+.gift-text{
+color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 30px;
+font-weight: 900;
+line-height: 60px;
+text-align: left;
+}
+.text-section{
+color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 15px;
+font-weight: 400;
+line-height: 32px;
+text-align: left;
+}
+.last-section{
+  width: 1600px; 
+  height: 500px; 
+  background-color: black;
+  margin-top: 30px ;
+}
+  
+
+
+
+
+    
+    
+
+
